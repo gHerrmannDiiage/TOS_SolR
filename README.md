@@ -44,6 +44,3 @@ Suivez ces étapes pour installer Solr localement :
 
 Les contributions sont les bienvenues ! Si vous avez des suggestions d'amélioration, des rapports de bogues ou des fonctionnalités à ajouter, n'hésitez pas à ouvrir une issue ou à soumettre une pull request.
 
-## Licence
-
-Ce projet est sous licence [LICENSE_NAME]. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
