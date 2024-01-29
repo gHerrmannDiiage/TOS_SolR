@@ -40,5 +40,3 @@ Suivez ces étapes pour installer Solr localement :
 - Pour personnaliser davantage la configuration de Solr, consultez la documentation officielle de Solr : [https://lucene.apache.org/solr/guide/](https://lucene.apache.org/solr/guide/).
 
 
-Les contributions sont les bienvenues ! Si vous avez des suggestions d'amélioration, des rapports de bogues ou des fonctionnalités à ajouter, n'hésitez pas à ouvrir une issue ou à soumettre une pull request.
-
