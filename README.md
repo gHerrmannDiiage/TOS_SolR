@@ -1,7 +1,5 @@
 # TOS_SolR
 
-Bienvenue dans le référentiel de Votre Projet. Ce référentiel contient des informations sur l'installation et la configuration de Apache Solr pour votre application.
-
 ## Apache Solr
 
 Apache Solr est une plateforme de recherche open source basée sur Lucene. Elle offre une recherche puissante et des fonctionnalités d'indexation pour vos données.
